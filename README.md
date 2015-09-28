@@ -1,5 +1,5 @@
-# Frost
-Frost is meant to be a circle icon pack with light gray glyphs.
+# Pinbadge
+Pinbadge is meant to be a circle icon pack with light gray glyphs.
 
 ### Guidelines
 Background has to be at lease 400 numbers away from each other. EG 500 --> 900
