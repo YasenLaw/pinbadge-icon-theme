@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=Pinbadge Icon Theme
+Comment=A wonderful circular icon pack inspired by OSX!
+
+Inherits=MaterialOS
+
+# Directory list
+Directories=48x48/apps
+
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Fixed
