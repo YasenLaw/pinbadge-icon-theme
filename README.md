@@ -9,7 +9,7 @@ Pinbadge is meant to be a circle icon pack with light gray glyphs.
 
 `sudo install pinbadge-icon-theme`
 
-### For other distrobutions (assuming `git` package is installed)
+### For other distributions (assuming `git` package is installed)
 `git clone https://github.com/crutchcorn/pinbadge-icon-theme.git`
 
 `sudo mv pinbadge-icon-theme /usr/share/themes/`
