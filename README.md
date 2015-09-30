@@ -4,11 +4,14 @@ Pinbadge is meant to be a circle icon pack with light gray glyphs.
 # Installation
 ### For Ubuntu
 `sudo add-apt-repository ppa:pinbadge/ppa`
+
 `sudo apt-get update`
+
 `sudo install pinbadge-icon-theme`
 
 ### For other distrobutions (assuming `git` package is installed)
 `git clone https://github.com/crutchcorn/pinbadge-icon-theme.git`
+
 `sudo mv pinbadge-icon-theme /usr/share/themes/`
 
 # Guidelines
