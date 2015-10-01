@@ -20,11 +20,34 @@
 	<stop  offset="1" style="stop-color:#B71C1C"/>
 </linearGradient>
 <circle id="Inner_Circle" fill="url(#Inner_Circle_1_)" cx="24" cy="24" r="21.6"/>
-<linearGradient id="Glyph_1_" gradientUnits="userSpaceOnUse" x1="27.425" y1="11.3815" x2="27.425" y2="36.3815">
+<linearGradient id="Glyph_1_" gradientUnits="userSpaceOnUse" x1="24" y1="15.2228" x2="24" y2="32.7772">
 	<stop  offset="0" style="stop-color:#FAFAFA"/>
 	<stop  offset="1" style="stop-color:#E0E0E0"/>
 </linearGradient>
-<polygon id="Glyph" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Glyph_1_)" points="15.6,11.4 15.6,36.4 39.2,23.6 "/>
-<polygon id="Tint" fill="#FFFFFF" points="39.2,23.6 15.6,11.4 15.6,11.6 39,23.8 "/>
-<polygon id="Shade" opacity="0.2" fill="#3E2723" points="15.6,36.4 15.6,36.6 39.2,23.9 39,23.8 "/>
+<path id="Glyph" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Glyph_1_)" d="M36,17.8c-0.6-2.2-2.2-2.3-5.5-2.4
+	c-3.3-0.1-6.5-0.1-6.5-0.1s-3.1,0-6.5,0.1c-3.3,0.1-4.9,0.2-5.5,2.4c-0.5,1.8-0.5,5.2-0.5,6.2c0,1,0.1,4.4,0.5,6.2
+	c0.6,2.2,2.2,2.3,5.5,2.4c3.3,0.1,6.5,0.1,6.5,0.1s3.1,0,6.5-0.1c3.3-0.1,4.9-0.2,5.5-2.4c0.5-1.8,0.5-5.2,0.5-6.2
+	C36.5,23,36.4,19.6,36,17.8z M20.7,27.5v-7.1l6.7,3.5L20.7,27.5z"/>
+<g id="Shade" opacity="0.2">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24" y1="20.4569" x2="24" y2="24.0566">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#3E2723"/>
+	</linearGradient>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="20.7,20.5 20.7,20.7 27.1,24.1 27.3,23.9 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="24" y1="24.125" x2="24" y2="33.0272">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#3E2723"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M36,30.2c-0.6,2.2-2.2,2.3-5.5,2.4
+		c-3.3,0.1-6.5,0.1-6.5,0.1s-3.1,0-6.5-0.1c-3.3-0.1-4.9-0.2-5.5-2.4c-0.5-1.7-0.5-4.9-0.5-6.1c0,0,0,0.1,0,0.1c0,1,0.1,4.4,0.5,6.2
+		c0.6,2.2,2.2,2.3,5.5,2.4C20.9,33,24,33,24,33s3.1,0,6.5-0.1c3.3-0.1,4.9-0.2,5.5-2.4c0.5-1.8,0.5-5.2,0.5-6.2c0,0,0-0.1,0-0.1
+		C36.5,25.2,36.4,28.5,36,30.2z"/>
+</g>
+<g id="Tint">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M12,18.1c0.6-2.2,2.2-2.3,5.5-2.4c3.3-0.1,6.5-0.1,6.5-0.1
+		s3.1,0,6.5,0.1c3.3,0.1,4.9,0.2,5.5,2.4c0.5,1.7,0.5,4.9,0.5,6.1c0,0,0-0.1,0-0.1c0-1-0.1-4.4-0.5-6.2c-0.6-2.2-2.2-2.3-5.5-2.4
+		c-3.3-0.1-6.5-0.1-6.5-0.1s-3.1,0-6.5,0.1c-3.3,0.1-4.9,0.2-5.5,2.4c-0.5,1.8-0.5,5.2-0.5,6.2c0,0,0,0.1,0,0.1
+		C11.5,23,11.6,19.8,12,18.1z"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="27.3,24.2 27.1,24.1 20.7,27.5 20.7,27.8 	"/>
+</g>
 </svg>
