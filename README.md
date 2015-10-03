@@ -21,17 +21,19 @@ sudo make install
 
 # Guidelines
 ### General
-Icons must be named all lower case with any spaces being replaced by underscores (_)
-Circle is 182 px x 182 px
-Background has to be at lease 400 numbers away from each other. EG 500 --> 900
-Glyphs MUST have 1px shade 1px below the glyph
-Glyph MUST be gradient from Gray 50 --> Gray 300
-Glyph MUST have 1PX 100% tint
-You should use 6.25px spaces between other objects
+* Icons must be named all lower case with any spaces being replaced by underscores (_)
+* Canvas is 192px x 192px
+* Whole circle is 182 px x 182 px
+* Background has to be at lease 400 numbers away from each other. EG 500 --> 900
+* Glyphs MUST have 1px shade 1px below the glyph
+* Glyph MUST be gradient from Gray 50 --> Gray 300
+* Glyph MUST have 1PX 100% tint
+* You should use 6.25px spaces between other objects
 
 ### Linux
-Circle is 45.5px x 45.5px
+* Canvas is 48px x 48px
+* Whole circle is 45.5px x 45.5px
 
 # Special thanks
-* [Philippe Loctaux] (https://github.com/loctauxphilippe) for setting up the Linux package and the PPA 
+* [Philippe Loctaux] (https://github.com/loctauxphilippe) for setting up the Linux package, the PPA, and the AUR package
 * [Material Open Source] (https://github.com/materialos) for letting me use their graphical assets
