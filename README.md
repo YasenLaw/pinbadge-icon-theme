@@ -29,6 +29,6 @@ You should use 6.25px spaces between other objects
 ### Linux
 Circle is 45.5px x 45.5px
 
-### Special thanks
+# Special thanks
 [Philippe Loctaux] (https://github.com/loctauxphilippe) for setting up the Linux package and the PPA 
 [Material Open Source] (https://github.com/materialos) for letting me use their graphical assets
