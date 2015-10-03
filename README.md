@@ -2,7 +2,7 @@
 Pinbadge is meant to be a circle icon pack with light gray glyphs.
 
 # Installation
-### For Ubuntu
+### Ubuntu
 ```bash
 sudo add-apt-repository ppa:pinbadge/ppa
 sudo apt-get update
