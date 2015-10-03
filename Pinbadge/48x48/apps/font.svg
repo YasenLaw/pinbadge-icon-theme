@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="Outter_Circle_1_">
+	<linearGradient id="Outter_Circle_2_" gradientUnits="userSpaceOnUse" x1="26.3782" y1="1.3728" x2="21.6218" y2="46.6272">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#BDBDBD"/>
+	</linearGradient>
+	<circle id="Outter_Circle" fill="url(#Outter_Circle_2_)" cx="24" cy="24" r="22.75"/>
+	<g>
+		<path id="Circle_Shade" opacity="0.2" fill="#202020" d="M24,46.513c-12.525,0-22.685-10.122-22.748-22.632
+			c0,0.04-0.002,0.079-0.002,0.118c0,12.564,10.186,22.75,22.75,22.75S46.75,36.564,46.75,24c0-0.04-0.001-0.079-0.002-0.118
+			C46.685,36.391,36.525,46.513,24,46.513z"/>
+		<path id="Circle_Tint" opacity="0.05" fill="#202020" d="M24,1.487c12.525,0,22.685,10.122,22.748,22.632
+			c0-0.04,0.002-0.079,0.002-0.118C46.75,11.436,36.564,1.25,24,1.25S1.25,11.436,1.25,24c0,0.04,0.001,0.079,0.002,0.118
+			C1.315,11.609,11.475,1.487,24,1.487z"/>
+	</g>
+</g>
+<linearGradient id="Inner_Circle_1_" gradientUnits="userSpaceOnUse" x1="24" y1="2.4349" x2="24" y2="45.5651">
+	<stop  offset="0" style="stop-color:#607D8B"/>
+	<stop  offset="1" style="stop-color:#263238"/>
+</linearGradient>
+<circle id="Inner_Circle" fill="url(#Inner_Circle_1_)" cx="24" cy="24" r="21.565"/>
+<linearGradient id="Glyph_1_" gradientUnits="userSpaceOnUse" x1="24" y1="10.3158" x2="24" y2="35.3158">
+	<stop  offset="0" style="stop-color:#FAFAFA"/>
+	<stop  offset="1" style="stop-color:#E0E0E0"/>
+</linearGradient>
+<path id="Glyph" fill="url(#Glyph_1_)" d="M28.722,28.877h-9.409l-2.232,6.439h-3.451l9.014-25h2.902l8.826,25H30.92L28.722,28.877z
+	 M20.291,26.044h7.469l-3.64-10.731h-0.103L20.291,26.044z"/>
+<g id="Shade" opacity="0.2">
+	<polygon fill="#263238" points="24.12,15.312 24.017,15.312 20.291,26.044 20.378,26.044 24.017,15.562 24.12,15.562 
+		27.675,26.044 27.76,26.044 	"/>
+	<polygon fill="#263238" points="30.92,35.316 28.722,28.877 19.313,28.877 17.08,35.316 13.719,35.316 13.629,35.566 17.08,35.566 
+		19.313,29.127 28.722,29.127 30.92,35.566 34.371,35.566 34.283,35.316 	"/>
+</g>
+<g id="Tint">
+	<polygon fill="#FFFFFF" points="22.643,10.566 25.545,10.566 34.283,35.316 34.371,35.316 25.545,10.316 22.643,10.316 
+		13.629,35.316 13.719,35.316 	"/>
+	<polygon fill="#FFFFFF" points="27.76,26.294 27.675,26.044 20.378,26.044 20.291,26.294 	"/>
+</g>
+</svg>
