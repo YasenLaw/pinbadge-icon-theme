@@ -2,7 +2,7 @@
 Name=Pinbadge Icon Theme
 Comment=A wonderful circular icon pack inspired by OSX!
 
-Inherits=MaterialOS
+Inherits=Numix-Circle
 
 # Directory list
 Directories=48x48/apps
