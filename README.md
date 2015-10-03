@@ -9,6 +9,9 @@ sudo apt-get update
 sudo install pinbadge-icon-theme
 ```
 
+### Arch
+Arch users can install this community maintained [AUR package](https://aur.archlinux.org/packages/pinbadge-icon-theme/).
+
 ### For other distributions (assuming `git` is installed)
 ```
 git clone https://github.com/crutchcorn/pinbadge-icon-theme.git
