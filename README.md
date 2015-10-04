@@ -7,7 +7,7 @@ Pinbadge is meant to be a circle icon pack with light gray glyphs.
 sudo add-apt-repository ppa:pinbadge/ppa
 sudo add-apt-repository ppa:numix/ppa
 sudo apt-get update
-sudo install pinbadge-icon-theme
+sudo apt-get install pinbadge-icon-theme
 ```
 
 ### Arch
